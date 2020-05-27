@@ -1,0 +1,4 @@
+Name:Suresh
+Age:26
+Place:Bangalore
+Qualification:MCA
