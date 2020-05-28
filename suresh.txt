@@ -3,3 +3,4 @@ Age:26
 Place:Bangalore
 Qualification:MCA
 Blood Group: O-
+State:Karnataka
